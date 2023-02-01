@@ -1,0 +1,11 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+#showcase, #others, #about, #course, #enroll {
+    background-color: maroon;   
+}
+#news, #accred, #nav, #footer, #vision, #goal, #programs, #require  {
+  background-color: black;
+}
